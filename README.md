@@ -2,9 +2,7 @@
 
 Sonic is a distinctive and integrated delivery system that includes two applications: the Sonic-User App and the Sonic-Driver App.
 
-The Sonic-Driver App is developed for drivers  
-
-The application was developed using Flutter framework and linked with APIs to make it available for both Android and iOS systems.
+The Sonic-Driver App is developed for drivers using Flutter framework and linked with APIs to make it available for both Android and iOS systems.
 
 Key features of the application include:
 * The driver an accept orders and delivery orders.

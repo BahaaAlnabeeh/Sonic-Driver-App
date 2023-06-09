@@ -1,5 +1,18 @@
 # Sonic-Driver-App
-The main idea is a multi-vendor app It consists of 2 applications interconnected with each other, an application for the user and an application for the driver. 
+
+Sonic is a distinctive and integrated delivery system that includes two applications: the Sonic-User App and the Sonic-Driver App.
+
+The Sonic-Driver App is developed for drivers  
+
+The application was developed using Flutter framework and linked with APIs to make it available for both Android and iOS systems.
+
+Key features of the application include:
+* The driver an accept orders and delivery orders.
+* View each order and its details before accepting it.
+* View the number of completed or under implementation or returned requests.
+* See the details of the order owner and the seller's details.
+* The arrival of a notification to the driver when a new application is received to accept or rejected if it does not suitable with it.
+* The possibility of changing the image of the driver and his data.
 
 For More Details and see apk of this application, Do not hesitate to communicate with me at Email: alnbyhbha@gmail.com
 

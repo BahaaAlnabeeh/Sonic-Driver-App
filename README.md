@@ -13,7 +13,7 @@ Key features of the application include:
 * The arrival of a notification to the driver when a new application is received to accept or rejected if it does not suitable with it.
 * The possibility of changing the image of the driver and his data.
 
-For More Details and see apk of this application, Do not hesitate to communicate with me at Email: alnbyhbha@gmail.com
+For More Details and see apk of this application, Do not hesitate to communicate with me 
 
 Driver App Screens
 
